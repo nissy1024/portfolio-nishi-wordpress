@@ -1,2 +1,2 @@
-サイトURL:
-簡単な自己紹介サイトです。
+- サイトURL: https://coruscating-elf-fae5d8.netlify.app/about/
+- 簡単な自己紹介サイトです。
